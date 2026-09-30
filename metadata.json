@@ -1,0 +1,6 @@
+{
+  "name": "CleanCSV",
+  "description": "Clean CSV files online for free. Remove duplicates, empty rows, whitespace and formatting problems. Your data is processed privately in your browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
